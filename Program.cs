@@ -6,7 +6,20 @@ namespace HW10P._2
     {
         static void Main(string[] args)
         {
-            
+            System.Console.WriteLine("I'm walking.What should I do?");
+            Actions me = new Actions();
+            do{
+            System.Console.WriteLine("1.Play\n2.Pause\n3.Stop\n4.Record");
+            switch(Console.ReadLine()){
+                case "1": me.Play(); break;
+                case "2": me.Pause(); break;
+                case "3": me.Stop(); break;
+                case "4": me.Record(); break;
+                default: System.Console.WriteLine("Your choice not exist"); break;
+            }
+            System.Console.WriteLine("Enter some key to continue and q to exit");
+            }while(Console.ReadLine() != "q");
+            System.Console.WriteLine("Bye");
         }
         interface IPlayable
         {
