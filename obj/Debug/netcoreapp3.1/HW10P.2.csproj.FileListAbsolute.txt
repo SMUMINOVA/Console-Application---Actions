@@ -1,0 +1,13 @@
+/home/sobira/Рабочий стол/c#/HW10P.2/bin/Debug/netcoreapp3.1/HW10P.2
+/home/sobira/Рабочий стол/c#/HW10P.2/bin/Debug/netcoreapp3.1/HW10P.2.deps.json
+/home/sobira/Рабочий стол/c#/HW10P.2/bin/Debug/netcoreapp3.1/HW10P.2.runtimeconfig.json
+/home/sobira/Рабочий стол/c#/HW10P.2/bin/Debug/netcoreapp3.1/HW10P.2.runtimeconfig.dev.json
+/home/sobira/Рабочий стол/c#/HW10P.2/bin/Debug/netcoreapp3.1/HW10P.2.dll
+/home/sobira/Рабочий стол/c#/HW10P.2/bin/Debug/netcoreapp3.1/HW10P.2.pdb
+/home/sobira/Рабочий стол/c#/HW10P.2/obj/Debug/netcoreapp3.1/HW10P.2.csprojAssemblyReference.cache
+/home/sobira/Рабочий стол/c#/HW10P.2/obj/Debug/netcoreapp3.1/HW10P.2.csproj.CoreCompileInputs.cache
+/home/sobira/Рабочий стол/c#/HW10P.2/obj/Debug/netcoreapp3.1/HW10P.2.AssemblyInfoInputs.cache
+/home/sobira/Рабочий стол/c#/HW10P.2/obj/Debug/netcoreapp3.1/HW10P.2.AssemblyInfo.cs
+/home/sobira/Рабочий стол/c#/HW10P.2/obj/Debug/netcoreapp3.1/HW10P.2.dll
+/home/sobira/Рабочий стол/c#/HW10P.2/obj/Debug/netcoreapp3.1/HW10P.2.pdb
+/home/sobira/Рабочий стол/c#/HW10P.2/obj/Debug/netcoreapp3.1/HW10P.2.genruntimeconfig.cache
